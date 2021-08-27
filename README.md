@@ -1,9 +1,12 @@
 # Blog List App
 
-Blog-List-App is a Full Stack application that allows users to share and rate their favorite blogs. It uses React, NodeJS, Express and MongoDB. The Front-end communicates with the Back-end using a REST API.
+Blog-List-App is a Full Stack application that allows users to share and rate their favorite blogs. 
+It uses React, NodeJS, Express and MongoDB. 
+The Front-end communicates with the Back-end using a REST API.
 
 This repository corresponds only to the Front-end.
-The Front-end was developed from scratch. It uses the following libraries: 
+The Front-end was developed from scratch. 
+It uses the following libraries: 
 
 Redux for state management.
 Styled Components for the style of the app.
@@ -11,7 +14,6 @@ React Router.
 Axios.
 
 In order to work, this application requires both back-end and front-end working simultaneously.
-
 This project was bootstrapped with Create React App.
 
 ## Available Scripts
